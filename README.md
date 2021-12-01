@@ -1,4 +1,4 @@
-# Git Cheat Sheet
+![Git Cheat Sheet](cheat_sheet.png)
 
 ## First-Time Git Setup
 ### Your Identity
